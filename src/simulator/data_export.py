@@ -17,7 +17,7 @@ import os
 
 import numpy as np
 
-from simulation import simulate_bus_system
+from simulator.simulation import simulate_bus_system
 
 
 # ---------------------------------------------------------------------------
